@@ -1,10 +1,10 @@
 const daftarProduk = [
-"Keyboard",
-"Mouse",
-"Monitor",
-"Flashdisk",
-"Headset",
-"Webcam",
+    "Keyboard",
+    "Mouse",
+    "Monitor",
+    "Flashdisk",
+    "Headset",
+    "Webcam",
 ];
 
 //Nomor 1
