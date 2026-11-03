@@ -18,5 +18,5 @@ const bahasaPemrogramanTerakhir = bahasaPemrograman[bahasaPemrograman.length - 1
 console.log(bahasaPemrogramanTerakhir);
 
 // Mengakses elemen yang tidak ada dalam array, sehingga menghasilkan undefined
-// karena indeksnya melebihi elemen yang ada dalam array
+// karena indeksnya melebihi elemen yang ada
 console.log(bahasaPemrograman[7]);
