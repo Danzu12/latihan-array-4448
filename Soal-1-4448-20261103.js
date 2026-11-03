@@ -2,7 +2,7 @@ const daftarSiswa = ["Habibie", "Huzair", "Wira", "Arif", "Afgan"];
 const nilaiUjian = [80, 89, 75, 85, 90];
 const mataPelajaran = [
     "Matematika",
-    "Bahasa indonesia" ,
+    "Bahasa indonesia",
     "Ipa",
     "Ips"
 ];
